@@ -36,6 +36,7 @@ Link for data: https://github.com/krishnarajpatil/Car_Price_Predictor/blob/main/
 
 3. Then a it data tested with different models like Linear Regression, Ridge & Lasso regression, K-Neighbors Regressor, Decision Tree, Random Forest Regressor, XGBRegressor, CatBoosting Regressor and AdaBoost Regressor. XGBoost Regressor model was built on top of it which had 0.91 R2_score.
 
-Link for notebook: https://github.com/rajtilakls2510/car_price_predictor/blob/master/Quikr%20Analysis.ipynb
+Link for notebook: 1. For EDA = https://github.com/krishnarajpatil/Car_Price_Predictor/blob/main/notebook/1.%20CAR%20PRICE%20EDA.ipynb
+2. For Model training = https://github.com/krishnarajpatil/Car_Price_Predictor/blob/main/notebook/2.%20MODEL%20TRAINING.ipynb
 
 4. This project was given the form of an website built on Flask where we used the XGBoost Regressor model to perform predictions.
