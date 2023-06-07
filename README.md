@@ -1,2 +1,4 @@
 ## END TO END MACHINE LEARNING PROJECT
+<p align="center">
 ## CAR PRICE PREDICTOR
+</p>
